@@ -35,7 +35,7 @@ Card Party allows you to create a card with a compliment or joke. Once you are f
 6. Go to http://localhost:8080/ to view the site.
 
 ### Deploy Link
-[View the site here!](https://cardy-party.herokuapp.com/)
+[View the site here!](https://card-party.vercel.app/)
 
 ### Features
 - User can select a compliment or joke for their card, and add a message
